@@ -1,0 +1,15 @@
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/bin/Debug/net6.0/MasAcercaTiposDeDatos
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/bin/Debug/net6.0/MasAcercaTiposDeDatos.deps.json
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/bin/Debug/net6.0/MasAcercaTiposDeDatos.runtimeconfig.json
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/bin/Debug/net6.0/MasAcercaTiposDeDatos.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/bin/Debug/net6.0/MasAcercaTiposDeDatos.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/Debug/net6.0/MasAcercaTiposDeDatos.csproj.AssemblyReference.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/Debug/net6.0/MasAcercaTiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/Debug/net6.0/MasAcercaTiposDeDatos.AssemblyInfoInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/Debug/net6.0/MasAcercaTiposDeDatos.AssemblyInfo.cs
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/Debug/net6.0/MasAcercaTiposDeDatos.csproj.CoreCompileInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/Debug/net6.0/MasAcercaTiposDeDatos.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/Debug/net6.0/refint/MasAcercaTiposDeDatos.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/Debug/net6.0/MasAcercaTiposDeDatos.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/Debug/net6.0/MasAcercaTiposDeDatos.genruntimeconfig.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/Debug/net6.0/ref/MasAcercaTiposDeDatos.dll

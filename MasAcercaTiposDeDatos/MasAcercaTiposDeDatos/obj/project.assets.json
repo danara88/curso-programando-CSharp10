@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/LoopsAndIfs/LoopsAndIfs.csproj",
-      "projectName": "LoopsAndIfs",
-      "projectPath": "/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/LoopsAndIfs/LoopsAndIfs.csproj",
+      "projectUniqueName": "/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos.csproj",
+      "projectName": "MasAcercaTiposDeDatos",
+      "projectPath": "/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos.csproj",
       "packagesPath": "/Users/daniel.aranda/.nuget/packages/",
-      "outputPath": "/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/LoopsAndIfs/obj/",
+      "outputPath": "/Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daniel.aranda/.nuget/NuGet/NuGet.Config"

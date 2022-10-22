@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = LoopsAndIfs
-build_property.ProjectDir = /Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/LoopsAndIfs/
+build_property.RootNamespace = MasAcercaTiposDeDatos
+build_property.ProjectDir = /Users/daniel.aranda/Documents/Personal/Repositories/curso-programando-CSharp10/MasAcercaTiposDeDatos/MasAcercaTiposDeDatos/
